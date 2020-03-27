@@ -1,0 +1,22 @@
+{
+  "name": "hello-electronjs",
+  "version": "1.0.0",
+  "description": "hello-electronjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergeiYevteyev/hello-electronjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergeiYevteyev/hello-electronjs/issues"
+  },
+  "homepage": "https://github.com/SergeiYevteyev/hello-electronjs#readme",
+  "devDependencies": {
+    "electron": "^8.2.0"
+  }
+}
