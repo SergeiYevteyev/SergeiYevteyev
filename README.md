@@ -1,2 +1,2 @@
-# SergeiYevteyev
+# hello-electronjs
 hello-electronjs
